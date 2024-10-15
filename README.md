@@ -67,7 +67,3 @@ Desenvolver uma plataforma web para listagem e visualização de pokémons, para
 -  [React Router](https://reactrouter.com/web/guides/quick-start)
 -  [TypeScript](https://www.typescriptlang.org/)
 
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
