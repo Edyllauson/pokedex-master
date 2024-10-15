@@ -14,8 +14,6 @@
 
 Desenvolver uma plataforma web para listagem e visualização de pokémons, para a construção deste projeto foi usado ReactJS. Todos os dados sobre os pokémons como nome, número, tipo, imagem e entre outras coisas, foram possíveis com o uso da API REST [PokéApi](https://pokeapi.co/).
 
-Esse projeto é uma inspiração de um app mobile sobre pokémons, tal [layout](https://www.behance.net/gallery/95727849/Pokdex-App) foi criado a partir de um desafio proposto pela equipe do [umpontoseis](https://umpontoseis.com/).
-
 ### Funcionalidades
 
 - [x] **Listagem dos pokémons**: Listar os pokémons com o uso da API REST.
@@ -69,47 +67,6 @@ Esse projeto é uma inspiração de um app mobile sobre pokémons, tal [layout](
 -  [React Router](https://reactrouter.com/web/guides/quick-start)
 -  [TypeScript](https://www.typescriptlang.org/)
 
-## 📥 Instalação e execução
-
-Faça um clone desse repositório e acesse o diretório.
-
-```bash
-$ git clone git@github.com:LeeonardoVargas/pokedex.git && cd pokedex
-```
-
-```bash
-# Instalando as dependências
-$ yarn
-
-# Executanto aplicação
-$ yarn start
-
-```
-
-## :muscle: Contribuir
-
-Faça o `fork` e clone o projeto a partir do seu usuário.
-
-```bash
-# Clonando projeto
-$ git clone https://github.com/SEU-NOME-DE-USUARIO/pokedex.git
-
-# Criando um branch
-$ git branch minha-alteracao
-
-# Acessando o novo branch
-$ git checkout -b minha-alteracao
-
-# Adicionando os arquivos alterados
-$ git add .
-
-# Criando commit e a mensagem
-$ git commit -m "Corrigindo...."
-
-# Enviando alterações para o brach
-$ git push origin minha-alteracao
-```
-Você deve navegar até o seu repositório onde fez o fork e clicar no botão *New pull request* no lado esquerdo da página.
 
 ## 📝 Licença
 
